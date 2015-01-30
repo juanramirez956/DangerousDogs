@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DangerousDogs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="dogodescription">Dogo Argentino is a large, white, muscular dog that was developed in Argentina primarily for the purpose of big-game hunting, including wild boar; the breeder, Antonio Nores Martínez, also wanted a dog that would exhibit steadfast bravery and willingly protect its human companion to the death. It was first bred in 1928</string>
+    <string name="filadescription">The Fila Brasileiro also known as the Brazilian Mastiff is a large working breed of dog developed in Brazil. It is known for its superb tracking ability, aggressiveness and an unforgiving impetuous temperament. When a Brazilian Mastiff finds its quarry, it does not attack it.</string>
+    <string name="rootweilerdescription">The RottweilerThe dogs were known as \"Rottweil butchers\' dogs\" (German: Rottweiler Metzgerhund) because they were used to herd livestock and pull carts laden with butchered meat and other products to market</string>
+
+</resources>
